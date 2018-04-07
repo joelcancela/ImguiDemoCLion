@@ -50,4 +50,3 @@ install_manifest.txt
 compile_commands.json
 CTestTestfile.cmake
 cmake-build-debug/*
-lib/imgui/
